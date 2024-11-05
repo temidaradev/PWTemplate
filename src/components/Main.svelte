@@ -199,7 +199,7 @@
       </Step>
       <Step step={steps[1]}>
         <p>
-          Enter<strong class="text-violet-400">Description</strong>
+          Enter <strong class="text-violet-400">Description</strong>
         </p>
       </Step>
       <Step step={steps[2]}>
